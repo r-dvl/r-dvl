@@ -3,9 +3,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Raúl.<br>
+        I'm Raúl,<br>
         Currently working in automation but..<br>
-        In my free time I enjoy creating domotical applications with PLCs and microcontrollers!<br>
+        In my free time I like to create domotic applications with PLCs and microcontrollers!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/r-dvl/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
