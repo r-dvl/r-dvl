@@ -33,8 +33,8 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/R-dVL)
 
 ### Cloud
-[![Azure](https://img.shields.io/badge/microsoftazure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/R-dVL)
-[![AWS](https://img.shields.io/badge/amazonaws-black?style=for-the-badge&logo=amazonaws)](https://github.com/R-dVL)
+[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/R-dVL)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)](https://github.com/R-dVL)
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/R-dVL)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/R-dVL)
