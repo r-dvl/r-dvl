@@ -30,6 +30,7 @@
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/R-dVL)
 [![.Net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)](https://github.com/R-dVL)
+[![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/R-dVL)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/R-dVL)
 
 ### Cloud
