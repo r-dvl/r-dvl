@@ -52,7 +52,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-dVL&theme=transparent" />
   </a>
   <a href="https://github.com/R-dVL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-dVL&theme=transparent" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-dVL&layout=default&card_width=699&hide_border=true&theme=transparent" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-dVL&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
