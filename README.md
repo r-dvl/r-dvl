@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://github.com/R-dVL">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-dVL&theme=transparent" />
+  </a>
+  <a href="https://github.com/R-dVL">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-dVL&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/R-dVL">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-dVL&theme=transparent" />
+  </a>
+  <a href="https://github.com/R-dVL">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-dVL&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+<details>
 <h1 align="center">Hi!✌️</h1>
 
 <p align="center">
@@ -39,22 +55,6 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/R-dVL)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/R-dVL)
-
-<details>
-<p align="center">
-  <a href="https://github.com/R-dVL">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-dVL&theme=transparent" />
-  </a>
-  <a href="https://github.com/R-dVL">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-dVL&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/R-dVL">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-dVL&theme=transparent" />
-  </a>
-  <a href="https://github.com/R-dVL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-dVL&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
 </details>
 
 <p align="center">
@@ -62,14 +62,3 @@
     <img src="https://komarev.com/ghpvc/?username=R-dVL&color=blue&style=flat)" />
   </a>
 </p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
