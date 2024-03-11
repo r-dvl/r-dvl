@@ -9,7 +9,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-dvl&theme=transparent" />
   </a>
   <a href="https://github.com/r-dvl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-dvl&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-dvl&card_width=699&hide_border=true&theme=transparent&hide=css,html,scss" />
   </a>
 </p>
 
