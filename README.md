@@ -26,20 +26,21 @@ I am a software developer passionate about building robust, efficient, and secur
 
 ---
 
-<p align="center">Here is a real-time look into my activity and top technologies:</p>
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="390" height="195" alt="Profile Details" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="790" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="390" alt="GitHub Stats" />
   <a href="https://github.com/r-dvl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-dvl&hide_border=true&theme=tokyonight&card_width=390" width="390" height="195" alt="r-dvl Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-dvl&hide_border=true&theme=tokyonight&card_width=390" width="390" alt="r-dvl Streak Stats" />
   </a>
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="375" height="195" alt="GitHub Stats" />
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="375" height="195" alt="Productive Time" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="390" alt="Repos Per Language" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="390" alt="Most Commits Per Language" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="300" height="195" alt="Repos Per Language" />
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="300" height="195" alt="Most Commits Per Language" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="790" alt="Productive Time" />
 </p>
 <p align="center" style="margin-top: 15px;">
   <a href="https://github.com/r-dvl">
