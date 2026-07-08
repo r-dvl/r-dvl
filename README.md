@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="profile_banner.jpg" alt="r-dvl Banner" width="100%" style="border-radius: 8px;" />
-</p>
 <h1 align="center">Hi there, I'm Raul (r-dvl) 👋</h1>
 <p align="center">
   <strong>Full-Stack Developer | Java Spring Boot and Angular Specialist | Musician and Photography Enthusiast</strong>
@@ -20,7 +17,7 @@
 
 I am a software developer passionate about building robust, efficient, and secure backend systems while maintaining clean, user-friendly frontend interfaces. I love solving logical challenges, designing databases, and structuring clean APIs.
 - 🔭 **Current Projects**:
-  - **[Bandanize](https://github.com/r-dvl/bandanize)**: A very useful tool for musicians who play with many different groups as session musicians.
+  - **[Bandanize](https://github.com/bandanize)**: A very useful tool for musicians who play with many different groups as session musicians.
   - **[Rastpics](https://github.com/r-dvl/rastpics)**: A responsive frontend Single Page Application (SPA) showcasing landscape photography and travel logs, featuring modern typography and interactive visualization.
 - ⚡ **Areas of Focus**: Software Architecture, Security, Testing, and Automation.
 
